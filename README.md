@@ -1,19 +1,13 @@
-# html-css-ts-project-template
+# VariablesJS
 
 ## Assignment
 
-The goal of this assignment was to create a basic webpage to act as a template for all future html projects.
+The goal of this assignment was to display knowledge of using JavaScript/Typescript to interact with the user and do console logging.
 
 ![image of My webpage](././images/mypage.png)
 
-The above is a screen capture of the template that I created.
-
-![image of My webpage](././icons/current/dai5.svg)
-
-The above is a custom favicon that I made for the template, to be used in all future html projects.
-
-<br/>
+The above is a screen capture of the webpage that I created and it displays the console log.
 
 A link to the webpage that I made can be found in the About section of this repository or below.
 
-https://html-css-template-dommitchell.netlify.app/
+https://variablesjs-dommitchell.netlify.app/
